@@ -14,6 +14,9 @@ public class Buttons {
 
         driver.get("https://demoqa.com/buttons");
 
+        WebElement click1 = driver.findElement(By.id("doubleClickBtn"));
+        ((JavascriptExecutor) driver).executeScript("arguments[0].scrollIntoView(true);", click1);
+        driver.findElement(By.cssSelector("button#doubleClickBtn")).click();
 
         driver.close();
     }
