@@ -1,0 +1,127 @@
+[33mcommit 65e34c84be7b768346b71f9e119c320c30f99ee3[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Merge: 6e5b867 b4958cf
+Author: IrinaMihaelass <irinamihaela28@yahoo.com>
+Date:   Mon Jul 31 21:07:20 2023 +0300
+
+    tema selenium1
+
+[33mcommit 6e5b867b517e112c9e8481884b3c61bb0f5e5cd7[m
+Author: IrinaMihaelass <irinamihaela28@yahoo.com>
+Date:   Thu Jul 27 20:05:42 2023 +0300
+
+    primul selenium
+
+[33mcommit b4958cf0c5de076f6b6edc5dc9a016bf0377c20e[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Alupului Teodor-Iulian <93911556+Alupului@users.noreply.github.com>
+Date:   Thu Jul 27 19:40:10 2023 +0300
+
+    added new mains
+
+[33mcommit d11155ec2f012b4270efc7d9882fdaa5b83c84e0[m
+Author: Alupului Teodor-Iulian <93911556+Alupului@users.noreply.github.com>
+Date:   Thu Jul 27 19:33:11 2023 +0300
+
+    added new mains
+
+[33mcommit 28702cb13ca94c0eb42ae3ed5f6e21c1c4e78d46[m
+Merge: 41f7247 e2b6ec5
+Author: Alupului Teodor-Iulian <93911556+Alupului@users.noreply.github.com>
+Date:   Thu Jul 27 19:28:39 2023 +0300
+
+    Merge remote-tracking branch 'origin/main'
+
+[33mcommit 41f7247ef410142756ef624998e7fd395232c4eb[m
+Author: Alupului Teodor-Iulian <93911556+Alupului@users.noreply.github.com>
+Date:   Thu Jul 27 19:27:50 2023 +0300
+
+    added new mains
+
+[33mcommit b75109a29f3115a9a5c8a0e5e9216bd7d0c05438[m
+Author: IrinaMihaelass <irinamihaela28@yahoo.com>
+Date:   Thu Jul 27 18:44:24 2023 +0300
+
+    Prima tema selenium
+
+[33mcommit e2b6ec5534f3f8c6bd6846e3f858480a566d7a00[m
+Author: DumiRobert <136005964+DumiRobert@users.noreply.github.com>
+Date:   Thu Jul 27 18:30:49 2023 +0300
+
+    Exercise
+
+[33mcommit 547e2b24bbf2674a4c5cfe11eda32e8af33490a3[m
+Author: IrinaMihaelass <irinamihaela28@yahoo.com>
+Date:   Wed Jul 26 18:18:13 2023 +0300
+
+    Prima tema Selenium
+
+[33mcommit 83ce344f273f6371e6a706da97f8934b284e5768[m
+Merge: dd814c9 0139056
+Author: Alupului Teodor-Iulian <93911556+Alupului@users.noreply.github.com>
+Date:   Wed Jul 26 14:38:23 2023 +0300
+
+    added files
+
+[33mcommit dd814c9feaf2c96041934883d8137cf88d1b7afe[m
+Author: Alupului Teodor-Iulian <93911556+Alupului@users.noreply.github.com>
+Date:   Wed Jul 26 14:32:32 2023 +0300
+
+    added new mains
+
+[33mcommit 013905652907226342702248b99a4c8152b2b055[m
+Merge: 3760fbd db68f60
+Author: Delia Vecon <delia.vecon@gmail.com>
+Date:   Tue Jul 25 21:19:10 2023 +0300
+
+    Merge branch 'main' of github.com:SkillBrain-com/Nova-qac-25-05-23
+
+[33mcommit db68f60066549a62448506d094b6813a2c2acf79[m
+Merge: f30140f f0fe230
+Author: musikmari <musikmari@yahoo.com>
+Date:   Tue Jul 25 21:00:56 2023 +0300
+
+    Merge remote-tracking branch 'origin/main'
+    
+    # Conflicts:
+    #       pom.xml
+
+[33mcommit f30140f44c8a192f2d41d66bc077e8acaa7011ef[m
+Author: musikmari <musikmari@yahoo.com>
+Date:   Tue Jul 25 20:59:38 2023 +0300
+
+    Selenium test
+
+[33mcommit 3760fbdd8ccd23130da972d56d8b524f38192ca2[m
+Author: Delia Vecon <delia.vecon@gmail.com>
+Date:   Tue Jul 25 20:58:43 2023 +0300
+
+    initial
+
+[33mcommit f0fe23008f7a8750aab692ef777f2bc02225489b[m
+Author: andreisoare21 <andrei.daniel.soare@gmail.com>
+Date:   Tue Jul 25 20:52:08 2023 +0300
+
+    my first commit
+
+[33mcommit 51bbd7849fc6c11b93667792c82b8ad6d57c5e16[m
+Author: andreisoare21 <andrei.daniel.soare@gmail.com>
+Date:   Tue Jul 25 19:03:48 2023 +0300
+
+    initial commit
+
+[33mcommit 7856675aacfced21e6adfdaa28c6ba19aba54f53[m
+Author: andreisoare123423 <andrei.soare@codeoftalent.com>
+Date:   Tue Jul 25 18:46:05 2023 +0300
+
+    first commit
+
+[33mcommit 46466de1f4d33a167c5228600d2b5ca4203ac86a[m
+Author: andreisoare21 <50888912+andreisoare21@users.noreply.github.com>
+Date:   Tue Jul 25 18:42:56 2023 +0300
+
+    Delete Test
+
+[33mcommit ce2910c364bc7b020d0d69f562fc32fde222a8f2[m
+Author: VulpeIon <106534283+VulpeIon@users.noreply.github.com>
+Date:   Tue Jul 25 17:38:06 2023 +0200
+
+    Create Test

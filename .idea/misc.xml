@@ -9,10 +9,14 @@
     </option>
   </component>
 <<<<<<< HEAD
+<<<<<<< HEAD
   <component name="ProjectRootManager" version="2" languageLevel="JDK_20" default="true" project-jdk-name="20" project-jdk-type="JavaSDK">
 =======
   <component name="ProjectRootManager" version="2" languageLevel="JDK_X" default="true" project-jdk-name="20" project-jdk-type="JavaSDK">
 >>>>>>> b4958cf0c5de076f6b6edc5dc9a016bf0377c20e
+=======
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_X" default="true" project-jdk-name="openjdk-20" project-jdk-type="JavaSDK">
+>>>>>>> 984de8f6425578435b704aec3fa6ba22c29af608
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
