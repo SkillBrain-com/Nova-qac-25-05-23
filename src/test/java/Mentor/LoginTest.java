@@ -3,6 +3,7 @@ package Mentor;
 import org.example.Mentor.Pages.AppointmentPage;
 import org.example.Mentor.Pages.LoginPage;
 import org.example.Mentor.Pages.MainPage;
+import org.example.Mentor.PropertiesOperations;
 import org.example.Mentor.TestBase;
 import org.testng.annotations.Test;
 
@@ -15,13 +16,13 @@ public class LoginTest extends TestBase {
 
     public void successfulLogin() throws InterruptedException {
         mainPage.navigateToLoginPage();
-        loginPage.login("John Doe", "ThisIsNotAPassword");
+        loginPage.login(PropertiesOperations.getPropertyValueByKey("username"), PropertiesOperations.getPropertyValueByKey("password"));
         appointmentPage.verifyAppointmentPage();
     }
 
-    public void badLogin(){
+    public void badLogin() {
         mainPage.navigateToLoginPage();
-        loginPage.login("username", "password");
+        loginPage.login("user", "pass");
         loginPage.verifyBadLogin();
     }
 }

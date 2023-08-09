@@ -10,8 +10,8 @@ public class TestBase {
 
     @BeforeMethod
     public void launchBrowser(){
-        String browser = "chrome";
-        String URL = "https://katalon-demo-cura.herokuapp.com/";
+        String browser = PropertiesOperations.getPropertyValueByKey("browser");
+        String URL = PropertiesOperations.getPropertyValueByKey("url");
 
         DriverFactory.getInstance().setDriver(browserFactory.createBrowser(browser));
         DriverFactory.getInstance().getDriver().manage().window().setSize(new Dimension(1920,1080));
