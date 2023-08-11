@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-10T21:14:48 EEST" name="basicWebApp" finished-at="2023-08-10T21:15:06 EEST" duration-ms="17501">
+    <groups>
+    </groups>
+    <test started-at="2023-08-10T21:14:48 EEST" name="basicWebApp" finished-at="2023-08-10T21:15:06 EEST" duration-ms="17501">
+      <class name="org.example.FindPlayground">
+        <test-method signature="findPlayground()[pri:0, instance:org.example.FindPlayground@60704c]" started-at="2023-08-10T21:14:55 EEST" name="findPlayground" finished-at="2023-08-10T21:14:58 EEST" duration-ms="2430" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findPlayground -->
+      </class> <!-- org.example.FindPlayground -->
+      <class name="org.example.BasicWebPage">
+        <test-method signature="basicWebPageTests()[pri:0, instance:org.example.BasicWebPage@6293abcc]" started-at="2023-08-10T21:14:48 EEST" name="basicWebPageTests" finished-at="2023-08-10T21:14:53 EEST" duration-ms="4451" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basicWebPageTests -->
+      </class> <!-- org.example.BasicWebPage -->
+      <class name="org.example.HTMLTable">
+        <test-method signature="htmlTable()[pri:0, instance:org.example.HTMLTable@6b19b79]" started-at="2023-08-10T21:14:58 EEST" name="htmlTable" finished-at="2023-08-10T21:15:00 EEST" duration-ms="2208" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- htmlTable -->
+      </class> <!-- org.example.HTMLTable -->
+      <class name="org.example.TextBox">
+        <test-method signature="textBox()[pri:0, instance:org.example.TextBox@2a32de6c]" started-at="2023-08-10T21:15:00 EEST" name="textBox" finished-at="2023-08-10T21:15:06 EEST" duration-ms="6102" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- textBox -->
+      </class> <!-- org.example.TextBox -->
+      <class name="org.example.DynamicAttributes">
+        <test-method signature="dynamicAttributes()[pri:0, instance:org.example.DynamicAttributes@1d082e88]" started-at="2023-08-10T21:14:53 EEST" name="dynamicAttributes" finished-at="2023-08-10T21:14:55 EEST" duration-ms="2226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dynamicAttributes -->
+      </class> <!-- org.example.DynamicAttributes -->
+    </test> <!-- basicWebApp -->
+  </suite> <!-- basicWebApp -->
+</testng-results>

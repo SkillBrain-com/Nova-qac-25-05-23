@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="basicWebApp">
+    <test name="basicWebApp">
+        <classes>
+            <class name="org.example.BasicWebPage"></class>
+            <class name="org.example.DynamicAttributes"></class>
+            <class name="org.example.FindPlayground"></class>
+            <class name="org.example.HTMLTable"></class>
+            <class name="org.example.TextBox"></class>
+        </classes>
+    </test>
+</suite>

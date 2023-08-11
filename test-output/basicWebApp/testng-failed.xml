@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [basicWebApp]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="basicWebApp(failed)">
+    <classes>
+      <class name="org.example.TextBox">
+        <methods>
+          <include name="textBox"/>
+        </methods>
+      </class> <!-- org.example.TextBox -->
+    </classes>
+  </test> <!-- basicWebApp(failed) -->
+</suite> <!-- Failed suite [basicWebApp] -->
