@@ -6,6 +6,9 @@
             <class name="org.example.TextBox">
 
             </class>
+            <class name="org.example.Buttons">
+
+            </class>
         </classes>
     </test>
 </suite>
