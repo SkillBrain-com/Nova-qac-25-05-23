@@ -1,4 +1,4 @@
-package org.example.AlupuluiTeodorIulianSeleniu1.Herokuapp.BasicWebPage;
+package org.example.Herokuapp.BasicWebPage;
 
 
 import org.openqa.selenium.By;

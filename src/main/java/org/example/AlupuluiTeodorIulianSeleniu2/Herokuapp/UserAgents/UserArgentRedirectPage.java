@@ -1,4 +1,4 @@
-package org.example.AlupuluiTeodorIulianSeleniu2.Herokuapp.UserAgents;
+package org.example.Herokuapp.UserAgents;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;

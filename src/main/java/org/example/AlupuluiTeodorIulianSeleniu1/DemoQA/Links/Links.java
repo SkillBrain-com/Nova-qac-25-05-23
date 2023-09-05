@@ -1,4 +1,4 @@
-package org.example.AlupuluiTeodorIulianSeleniu1.DemoQA.Links;
+package org.example.DemoQA.Links;
 
 
 import org.openqa.selenium.By;

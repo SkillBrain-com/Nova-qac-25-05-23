@@ -1,4 +1,4 @@
-package org.example.AlupuluiTeodorIulianSeleniu1.Herokuapp.Alerts;
+package org.example.Herokuapp.Alerts;
 
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;

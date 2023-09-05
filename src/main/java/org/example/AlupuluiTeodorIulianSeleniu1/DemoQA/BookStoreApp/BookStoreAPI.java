@@ -1,4 +1,4 @@
-package org.example.AlupuluiTeodorIulianSeleniu1.DemoQA.BookStoreApp;
+package org.example.DemoQA.BookStoreApp;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;

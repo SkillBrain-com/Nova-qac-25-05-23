@@ -1,4 +1,4 @@
-package org.example.AlupuluiTeodorIulianSeleniu1.Herokuapp.MicroApps;
+package org.example.Herokuapp.MicroApps;
 
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;

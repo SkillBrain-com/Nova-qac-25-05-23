@@ -1,4 +1,4 @@
-package org.example.AlupuluiTeodorIulianSeleniu1.DemoQA.UploadAndDownload;
+package org.example.DemoQA.UploadAndDownload;
 
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;

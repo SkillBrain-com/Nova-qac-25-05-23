@@ -1,4 +1,4 @@
-package org.example.AlupuluiTeodorIulianSeleniu1.DemoQA.AlertsFrameAndWindows;
+package org.example.DemoQA.AlertsFrameAndWindows;
 
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -10,9 +10,9 @@ public class NestedFrames {
 
         driver.get("https://demoqa.com/nestedframes");
 
-        WebElement frame = driver.findElement(By.xpath("/html/body/iframe"));
-        ((JavascriptExecutor)driver).executeScript("arguments[0].scrollIntoView(true);", frame);
-        driver.findElement(By.xpath("/html/body/iframe")).click();
+        WebElement frame = driver.findElement(By.id("frame1"));
+        driver.switchTo().frame(frame);
+        driver.findElement(By.xpath("/html/body/p")).click();
 
         driver.quit();
     }

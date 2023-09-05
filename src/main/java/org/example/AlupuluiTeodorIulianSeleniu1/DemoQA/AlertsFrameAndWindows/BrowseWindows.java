@@ -1,4 +1,4 @@
-package org.example.AlupuluiTeodorIulianSeleniu1.DemoQA.AlertsFrameAndWindows;
+package org.example.DemoQA.AlertsFrameAndWindows;
 
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;

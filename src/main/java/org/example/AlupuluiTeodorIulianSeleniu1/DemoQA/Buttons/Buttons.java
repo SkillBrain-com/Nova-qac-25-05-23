@@ -1,4 +1,4 @@
-package org.example.AlupuluiTeodorIulianSeleniu1.DemoQA.Buttons;
+package org.example.DemoQA.Buttons;
 
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;

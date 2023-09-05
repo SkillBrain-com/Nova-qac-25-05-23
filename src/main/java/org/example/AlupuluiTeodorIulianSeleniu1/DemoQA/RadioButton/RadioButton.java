@@ -1,4 +1,4 @@
-package org.example.AlupuluiTeodorIulianSeleniu1.DemoQA.RadioButton;
+package org.example.DemoQA.RadioButton;
 
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;

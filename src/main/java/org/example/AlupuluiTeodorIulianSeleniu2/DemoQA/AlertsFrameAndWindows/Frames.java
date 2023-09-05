@@ -1,9 +1,6 @@
-package org.example.AlupuluiTeodorIulianSeleniu2.DemoQA.AlertsFrameAndWindows;
+package org.example.DemoQA.AlertsFrameAndWindows;
 
-import org.openqa.selenium.By;
-import org.openqa.selenium.JavascriptExecutor;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
+import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 public class Frames {
@@ -13,12 +10,10 @@ public class Frames {
 
         driver.get("https://demoqa.com/frames");
 
-        WebElement frame1 = driver.findElement(By.cssSelector("#frame2Wrapper"));
-        ((JavascriptExecutor)driver).executeScript("arguments[0].scrollIntoView(true);", frame1);
-        driver.findElement(By.cssSelector("#frame2Wrapper")).click();
-        WebElement frame2 = driver.findElement(By.cssSelector("#frame2Wrapper"));
-        ((JavascriptExecutor)driver).executeScript("arguments[0].scrollIntoView(true);", frame2);
-        driver.findElement(By.cssSelector("#frame2Wrapper")).click();
+        WebElement frame1 = driver.findElement(By.id("frame1"));
+        driver.switchTo().frame(frame1);
+        String headingText = driver.findElement(By.id("sampleHeading")).getText();
+        System.out.println(headingText);
 
         driver.quit();
     }

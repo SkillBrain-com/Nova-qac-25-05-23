@@ -1,4 +1,4 @@
-package org.example.AlupuluiTeodorIulianSeleniu1.DemoQA.TextBox;
+package org.example.DemoQA.TextBox;
 
 
 import org.openqa.selenium.*;

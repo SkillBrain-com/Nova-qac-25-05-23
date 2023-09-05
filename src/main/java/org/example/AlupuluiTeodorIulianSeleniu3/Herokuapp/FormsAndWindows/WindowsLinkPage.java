@@ -1,10 +1,8 @@
 package org.example.AlupuluiTeodorIulianSeleniu3.Herokuapp.FormsAndWindows;
 
-import org.openqa.selenium.By;
-import org.openqa.selenium.JavascriptExecutor;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
+import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.WebDriver;
 
 public class WindowsLinkPage {
     public static void main(String[] args) {

@@ -1,9 +1,6 @@
-package org.example.AlupuluiTeodorIulianSeleniu3.Herokuapp.Challanges;
+package org.example.Herokuapp.Challanges;
 
-import org.openqa.selenium.By;
-import org.openqa.selenium.JavascriptExecutor;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
+import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 public class ClickAutoGrowButton {
