@@ -15,10 +15,10 @@ public class Buttons {
         driver.manage().window().maximize();
         driver.get("https://demoqa.com/buttons");
         driver.findElement(By.xpath("(//button[@class=\"btn btn-primary\"])[3]")).click();
-        WebElement doubleclick = driver.findElement(By.cssSelector("#doubleClickBtn"));
-        actions.doubleClick(doubleclick).perform();
-        WebElement rightclick = driver.findElement(By.cssSelector("#rightClickBtn"));
-        actions.contextClick(rightclick).perform();
+        WebElement doubleClick = driver.findElement(By.cssSelector("#doubleClickBtn"));
+        actions.doubleClick(doubleClick).perform();
+        WebElement rightClick = driver.findElement(By.cssSelector("#rightClickBtn"));
+        actions.contextClick(rightClick).perform();
         driver.quit();
 
     }
