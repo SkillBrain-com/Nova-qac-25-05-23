@@ -10,7 +10,7 @@ public class NestedFrames {
 
         driver.get("https://demoqa.com/nestedframes");
 
-        WebElement frame = driver.findElement(By.id("frame1"));
+        WebElement frame = driver.findElement(By.cssSelector("body > iframe"));
         driver.switchTo().frame(frame);
         driver.findElement(By.xpath("/html/body/p")).click();
 

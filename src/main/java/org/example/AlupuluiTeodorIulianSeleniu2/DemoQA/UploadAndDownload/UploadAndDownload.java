@@ -14,8 +14,8 @@ public class UploadAndDownload {
         ((JavascriptExecutor)driver).executeScript("arguments[0].scrollIntoView(true);", download1);
         driver.findElement(By.id("downloadButton")).click();
         WebElement upload1 = driver.findElement(By.xpath("//*[@id=\"uploadFile\"]"));
-        ((JavascriptExecutor)driver).executeScript("arguments[0].scrollIntoView(true);", upload1);
-        upload1.sendKeys("C:\\Users\\Jhackhendhar\\Downloads");
+        upload1.sendKeys("C:\\fakepath\\sampleFile.jpeg");
+        driver.findElement(By.xpath("//*[@id=\"uploadFile\"]")).click();
 
         driver.quit();
     }

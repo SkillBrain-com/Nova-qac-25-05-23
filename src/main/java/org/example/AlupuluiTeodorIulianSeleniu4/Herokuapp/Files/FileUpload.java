@@ -12,7 +12,7 @@ public class FileUpload {
 
         WebElement fc = driver.findElement(By.xpath("//*[@id=\"fileinput\"]"));
         ((JavascriptExecutor)driver).executeScript("arguments[0].scrollIntoView(true);", fc);
-        fc.sendKeys("C:\\Users\\Jhackhendhar\\Downloads");
+        fc.sendKeys("C:\\fakepath\\sampleFile.jpeg");
         WebElement image = driver.findElement(By.cssSelector("#itsanimage"));
         ((JavascriptExecutor)driver).executeScript("arguments[0].scrollIntoView(true);", image);
         driver.findElement(By.cssSelector("#itsanimage")).click();
