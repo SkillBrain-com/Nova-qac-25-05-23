@@ -12,6 +12,9 @@
             <class name="org.example.Forms">
 
             </class>
+            <class name="org.example.ModalDialogs">
+
+            </class>
         </classes>
     </test>
 </suite>
