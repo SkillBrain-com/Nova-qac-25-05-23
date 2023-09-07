@@ -9,6 +9,9 @@
             <class name="org.example.Buttons">
 
             </class>
+            <class name="org.example.Forms">
+
+            </class>
         </classes>
     </test>
 </suite>
