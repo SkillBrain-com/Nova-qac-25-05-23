@@ -3,6 +3,7 @@
 <suite name="teste">
     <test name="test">
         <classes>
+            <class name="org.example.UploudsAndDownloads"></class>
             <class name="org.example.TextBox">
 
             </class>
