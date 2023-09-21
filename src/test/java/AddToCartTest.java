@@ -7,5 +7,7 @@ public class AddToCartTest extends TestBase {
     public void addToCart(){
         MainPage mainPage = new MainPage(driver);
        mainPage.addToCart();
+       mainPage.verifyAddToCart();
     }
+
 }
