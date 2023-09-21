@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d4062d98-05c8-47c6-bfdf-7d45c02ac307" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Setup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Testul.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium ex.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu1/DemoQA/AlertsFrameAndWindows/Alerts.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu1/DemoQA/AlertsFrameAndWindows/BrowseWindows.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu1/DemoQA/AlertsFrameAndWindows/Frames.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu1/DemoQA/AlertsFrameAndWindows/ModalDialogs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu1/DemoQA/AlertsFrameAndWindows/NestedFrames.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu1/DemoQA/BookStoreApp/BookStore.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu1/DemoQA/BookStoreApp/BookStoreAPI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu1/DemoQA/BookStoreApp/Login.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu1/DemoQA/BookStoreApp/Profile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu1/DemoQA/BrokenLinks/BrokenLinksImage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu1/DemoQA/Buttons/Buttons.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu1/DemoQA/CheckBox/CheckBox.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu1/DemoQA/DynamicProperties/DymanicProperties.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu1/DemoQA/Forms/PracticeForms.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu1/DemoQA/Interactions/Dragabble.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu1/DemoQA/Interactions/Droppable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu1/DemoQA/Interactions/Resizable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu1/DemoQA/Interactions/Selectable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu1/DemoQA/Interactions/Sortable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu1/DemoQA/Links/Links.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu1/DemoQA/RadioButton/RadioButton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu1/DemoQA/TextBox/TextBox.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu1/DemoQA/UploadAndDownload/UploadAndDownload.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu1/DemoQA/WebTables/WebTables.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu1/DemoQA/Widgets/Accordian.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu1/DemoQA/Widgets/AutoComplete.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu1/DemoQA/Widgets/DataPicker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu1/DemoQA/Widgets/Menu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu1/DemoQA/Widgets/ProgressBar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu1/DemoQA/Widgets/SelectMenu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu1/DemoQA/Widgets/Slider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu1/DemoQA/Widgets/Tabs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu1/DemoQA/Widgets/ToolTips.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu1/Herokuapp/Alerts/Alerts.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu1/Herokuapp/Alerts/FakeAlerts.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu1/Herokuapp/Attributes/Attributes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu1/Herokuapp/BasicWebPage/BasicWebPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu1/Herokuapp/CSS/CSSMediaQuery.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu1/Herokuapp/CSSPseudoClass/HoverPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu1/Herokuapp/Challanges/ClickAutoGrowButton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu1/Herokuapp/Challanges/HardToSelectButtons.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu1/Herokuapp/Cookies/CookiesControllingPageAccess.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu1/Herokuapp/Files/FileDownloads.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu1/Herokuapp/Files/FileUpload.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu1/Herokuapp/Files/JavaScriptInitiatedFileDownloads.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu1/Herokuapp/FormsAndWindows/BasicHtmlForms.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu1/Herokuapp/FormsAndWindows/Html5FormElements.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu1/Herokuapp/FormsAndWindows/WindowsLinkPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu1/Herokuapp/Frames/FramesTestPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu1/Herokuapp/Frames/iFramesTestPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu1/Herokuapp/JavaScript/BasicJavaScript.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu1/Herokuapp/JavaScript/DragAndDropEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu1/Herokuapp/JavaScript/Events.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu1/Herokuapp/JavaScript/FieldValidation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu1/Herokuapp/JavaScript/KeyClick.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu1/Herokuapp/JavaScript/RedirectPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu1/Herokuapp/JavaScript/RefreshPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu1/Herokuapp/MicroApps/ButtonBasedCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu1/Herokuapp/MicroApps/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu1/Herokuapp/MicroApps/CanvasDrawing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu1/Herokuapp/MicroApps/CanvasScribbleTestPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu1/Herokuapp/MicroApps/ClientServerFormInputValidation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu1/Herokuapp/MicroApps/JavaScriptCountdown.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu1/Herokuapp/MicroApps/Search.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu1/Herokuapp/MicroApps/SimpleNoteTaker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu1/Herokuapp/MicroApps/Triangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu1/Herokuapp/Playground/Playground.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu1/Herokuapp/Syncronisation/DynamicButtonsChallenge1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu1/Herokuapp/Syncronisation/DynamicButtonsChallenge2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu1/Herokuapp/Syncronisation/ExpandingDivViaCSS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu1/Herokuapp/Syncronisation/MultipleProgressBar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu1/Herokuapp/Syncronisation/XHTTPMessageProcessing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu1/Herokuapp/UserAgents/UserArgentRedirectPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu2/DemoQA/AlertsFrameAndWindows/Alerts.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu2/DemoQA/AlertsFrameAndWindows/BrowseWindows.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu2/DemoQA/AlertsFrameAndWindows/Frames.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu2/DemoQA/AlertsFrameAndWindows/ModalDialogs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu2/DemoQA/AlertsFrameAndWindows/NestedFrames.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu2/DemoQA/BookStoreApp/BookStore.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu2/DemoQA/BookStoreApp/BookStoreAPI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu2/DemoQA/BookStoreApp/Login.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu2/DemoQA/BookStoreApp/Profile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu2/DemoQA/BrokenLinks/BrokenLinksImage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu2/DemoQA/Buttons/Buttons.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu2/DemoQA/CheckBox/CheckBox.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu2/DemoQA/DynamicProperties/DymanicProperties.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu2/DemoQA/Forms/PracticeForms.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu2/DemoQA/Interactions/Dragabble.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu2/DemoQA/Interactions/Droppable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu2/DemoQA/Interactions/Resizable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu2/DemoQA/Interactions/Selectable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu2/DemoQA/Interactions/Sortable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu2/DemoQA/Links/Links.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu2/DemoQA/RadioButton/RadioButton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu2/DemoQA/TextBox/TextBox.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu2/DemoQA/UploadAndDownload/UploadAndDownload.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu2/DemoQA/WebTables/WebTables.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu2/DemoQA/Widgets/Accordian.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu2/DemoQA/Widgets/AutoComplete.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu2/DemoQA/Widgets/DataPicker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu2/DemoQA/Widgets/Menu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu2/DemoQA/Widgets/ProgressBar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu2/DemoQA/Widgets/SelectMenu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu2/DemoQA/Widgets/Slider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu2/DemoQA/Widgets/Tabs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu2/DemoQA/Widgets/ToolTips.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu2/Herokuapp/Alerts/Alerts.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu2/Herokuapp/Alerts/FakeAlerts.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu2/Herokuapp/Attributes/Attributes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu2/Herokuapp/BasicWebPage/BasicWebPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu2/Herokuapp/CSS/CSSMediaQuery.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu2/Herokuapp/CSSPseudoClass/HoverPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu2/Herokuapp/Challanges/ClickAutoGrowButton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu2/Herokuapp/Challanges/HardToSelectButtons.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu2/Herokuapp/Cookies/CookiesControllingPageAccess.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu2/Herokuapp/Files/FileDownloads.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu2/Herokuapp/Files/FileUpload.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu2/Herokuapp/Files/JavaScriptInitiatedFileDownloads.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu2/Herokuapp/FormsAndWindows/BasicHtmlForms.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu2/Herokuapp/FormsAndWindows/Html5FormElements.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu2/Herokuapp/FormsAndWindows/WindowsLinkPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu2/Herokuapp/Frames/FramesTestPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu2/Herokuapp/Frames/iFramesTestPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu2/Herokuapp/JavaScript/BasicJavaScript.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu2/Herokuapp/JavaScript/DragAndDropEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu2/Herokuapp/JavaScript/Events.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu2/Herokuapp/JavaScript/FieldValidation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu2/Herokuapp/JavaScript/KeyClick.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu2/Herokuapp/JavaScript/RedirectPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu2/Herokuapp/JavaScript/RefreshPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu2/Herokuapp/MicroApps/ButtonBasedCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu2/Herokuapp/MicroApps/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu2/Herokuapp/MicroApps/CanvasDrawing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu2/Herokuapp/MicroApps/CanvasScribbleTestPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu2/Herokuapp/MicroApps/ClientServerFormInputValidation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu2/Herokuapp/MicroApps/JavaScriptCountdown.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu2/Herokuapp/MicroApps/Search.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu2/Herokuapp/MicroApps/SimpleNoteTaker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu2/Herokuapp/MicroApps/Triangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu2/Herokuapp/Playground/Playground.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu2/Herokuapp/Syncronisation/DynamicButtonsChallenge1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu2/Herokuapp/Syncronisation/DynamicButtonsChallenge2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu2/Herokuapp/Syncronisation/ExpandingDivViaCSS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu2/Herokuapp/Syncronisation/MultipleProgressBar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu2/Herokuapp/Syncronisation/XHTTPMessageProcessing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu2/Herokuapp/UserAgents/UserArgentRedirectPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu3/DemoQA/AlertsFrameAndWindows/Alerts.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu3/DemoQA/AlertsFrameAndWindows/BrowseWindows.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu3/DemoQA/AlertsFrameAndWindows/Frames.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu3/DemoQA/AlertsFrameAndWindows/ModalDialogs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu3/DemoQA/AlertsFrameAndWindows/NestedFrames.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu3/DemoQA/BookStoreApp/BookStore.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu3/DemoQA/BookStoreApp/BookStoreAPI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu3/DemoQA/BookStoreApp/Login.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu3/DemoQA/BookStoreApp/Profile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu3/DemoQA/BrokenLinks/BrokenLinksImage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu3/DemoQA/Buttons/Buttons.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu3/DemoQA/CheckBox/CheckBox.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu3/DemoQA/DynamicProperties/DymanicProperties.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu3/DemoQA/Forms/PracticeForms.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu3/DemoQA/Interactions/Dragabble.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu3/DemoQA/Interactions/Droppable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu3/DemoQA/Interactions/Resizable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu3/DemoQA/Interactions/Selectable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu3/DemoQA/Interactions/Sortable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu3/DemoQA/Links/Links.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu3/DemoQA/RadioButton/RadioButton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu3/DemoQA/TextBox/TextBox.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu3/DemoQA/UploadAndDownload/UploadAndDownload.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu3/DemoQA/WebTables/WebTables.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu3/DemoQA/Widgets/Accordian.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu3/DemoQA/Widgets/AutoComplete.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu3/DemoQA/Widgets/DataPicker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu3/DemoQA/Widgets/Menu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu3/DemoQA/Widgets/ProgressBar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu3/DemoQA/Widgets/SelectMenu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu3/DemoQA/Widgets/Slider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu3/DemoQA/Widgets/Tabs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu3/DemoQA/Widgets/ToolTips.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu3/Herokuapp/Alerts/Alerts.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu3/Herokuapp/Alerts/FakeAlerts.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu3/Herokuapp/Attributes/Attributes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu3/Herokuapp/BasicWebPage/BasicWebPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu3/Herokuapp/CSS/CSSMediaQuery.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu3/Herokuapp/CSSPseudoClass/HoverPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu3/Herokuapp/Challanges/ClickAutoGrowButton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu3/Herokuapp/Challanges/HardToSelectButtons.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu3/Herokuapp/Cookies/CookiesControllingPageAccess.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu3/Herokuapp/Files/FileDownloads.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu3/Herokuapp/Files/FileUpload.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu3/Herokuapp/Files/JavaScriptInitiatedFileDownloads.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu3/Herokuapp/FormsAndWindows/BasicHtmlForms.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu3/Herokuapp/FormsAndWindows/Html5FormElements.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu3/Herokuapp/FormsAndWindows/WindowsLinkPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu3/Herokuapp/Frames/FramesTestPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu3/Herokuapp/Frames/iFramesTestPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu3/Herokuapp/JavaScript/BasicJavaScript.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu3/Herokuapp/JavaScript/DragAndDropEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu3/Herokuapp/JavaScript/Events.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu3/Herokuapp/JavaScript/FieldValidation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu3/Herokuapp/JavaScript/KeyClick.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu3/Herokuapp/JavaScript/RedirectPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu3/Herokuapp/JavaScript/RefreshPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu3/Herokuapp/MicroApps/ButtonBasedCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu3/Herokuapp/MicroApps/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu3/Herokuapp/MicroApps/CanvasDrawing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu3/Herokuapp/MicroApps/CanvasScribbleTestPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu3/Herokuapp/MicroApps/ClientServerFormInputValidation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu3/Herokuapp/MicroApps/JavaScriptCountdown.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu3/Herokuapp/MicroApps/Search.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu3/Herokuapp/MicroApps/SimpleNoteTaker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu3/Herokuapp/MicroApps/Triangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu3/Herokuapp/Playground/Playground.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu3/Herokuapp/Syncronisation/DynamicButtonsChallenge1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu3/Herokuapp/Syncronisation/DynamicButtonsChallenge2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu3/Herokuapp/Syncronisation/ExpandingDivViaCSS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu3/Herokuapp/Syncronisation/MultipleProgressBar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu3/Herokuapp/Syncronisation/XHTTPMessageProcessing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu3/Herokuapp/UserAgents/UserArgentRedirectPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu4/DemoQA/AlertsFrameAndWindows/Alerts.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu4/DemoQA/AlertsFrameAndWindows/BrowseWindows.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu4/DemoQA/AlertsFrameAndWindows/Frames.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu4/DemoQA/AlertsFrameAndWindows/ModalDialogs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu4/DemoQA/AlertsFrameAndWindows/NestedFrames.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu4/DemoQA/BookStoreApp/BookStore.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu4/DemoQA/BookStoreApp/BookStoreAPI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu4/DemoQA/BookStoreApp/Login.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu4/DemoQA/BookStoreApp/Profile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu4/DemoQA/BrokenLinks/BrokenLinksImage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu4/DemoQA/Buttons/Buttons.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu4/DemoQA/CheckBox/CheckBox.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu4/DemoQA/DynamicProperties/DymanicProperties.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu4/DemoQA/Forms/PracticeForms.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu4/DemoQA/Interactions/Dragabble.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu4/DemoQA/Interactions/Droppable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu4/DemoQA/Interactions/Resizable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu4/DemoQA/Interactions/Selectable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu4/DemoQA/Interactions/Sortable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu4/DemoQA/Links/Links.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu4/DemoQA/RadioButton/RadioButton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu4/DemoQA/TextBox/TextBox.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu4/DemoQA/UploadAndDownload/UploadAndDownload.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu4/DemoQA/WebTables/WebTables.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu4/DemoQA/Widgets/Accordian.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu4/DemoQA/Widgets/AutoComplete.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu4/DemoQA/Widgets/DataPicker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu4/DemoQA/Widgets/Menu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu4/DemoQA/Widgets/ProgressBar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu4/DemoQA/Widgets/SelectMenu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu4/DemoQA/Widgets/Slider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu4/DemoQA/Widgets/Tabs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu4/DemoQA/Widgets/ToolTips.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu4/Herokuapp/Alerts/Alerts.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu4/Herokuapp/Alerts/FakeAlerts.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu4/Herokuapp/Attributes/Attributes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu4/Herokuapp/BasicWebPage/BasicWebPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu4/Herokuapp/CSS/CSSMediaQuery.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu4/Herokuapp/CSSPseudoClass/HoverPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu4/Herokuapp/Challanges/ClickAutoGrowButton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu4/Herokuapp/Challanges/HardToSelectButtons.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu4/Herokuapp/Cookies/CookiesControllingPageAccess.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu4/Herokuapp/Files/FileDownloads.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu4/Herokuapp/Files/FileUpload.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu4/Herokuapp/Files/JavaScriptInitiatedFileDownloads.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu4/Herokuapp/FormsAndWindows/BasicHtmlForms.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu4/Herokuapp/FormsAndWindows/Html5FormElements.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu4/Herokuapp/FormsAndWindows/WindowsLinkPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu4/Herokuapp/Frames/FramesTestPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu4/Herokuapp/Frames/iFramesTestPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu4/Herokuapp/JavaScript/BasicJavaScript.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu4/Herokuapp/JavaScript/DragAndDropEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu4/Herokuapp/JavaScript/Events.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu4/Herokuapp/JavaScript/FieldValidation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu4/Herokuapp/JavaScript/KeyClick.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu4/Herokuapp/JavaScript/RedirectPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu4/Herokuapp/JavaScript/RefreshPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu4/Herokuapp/MicroApps/ButtonBasedCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu4/Herokuapp/MicroApps/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu4/Herokuapp/MicroApps/CanvasDrawing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu4/Herokuapp/MicroApps/CanvasScribbleTestPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu4/Herokuapp/MicroApps/ClientServerFormInputValidation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu4/Herokuapp/MicroApps/JavaScriptCountdown.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu4/Herokuapp/MicroApps/Search.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu4/Herokuapp/MicroApps/SimpleNoteTaker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu4/Herokuapp/MicroApps/Triangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu4/Herokuapp/Playground/Playground.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu4/Herokuapp/Syncronisation/DynamicButtonsChallenge1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu4/Herokuapp/Syncronisation/DynamicButtonsChallenge2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu4/Herokuapp/Syncronisation/ExpandingDivViaCSS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu4/Herokuapp/Syncronisation/MultipleProgressBar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu4/Herokuapp/Syncronisation/XHTTPMessageProcessing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AlupuluiTeodorIulianSeleniu4/Herokuapp/UserAgents/UserArgentRedirectPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Mentor/BrowserFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Mentor/DriverFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Mentor/Pages/AppointmentPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Mentor/Pages/LoginPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Mentor/Pages/MainPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Mentor/PropertiesOperations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Mentor/TestBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Mentor/config.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Mentor/LoginTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Mentor/testng.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/file.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/CURA/Login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/CURA/Login.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/CURA/testng-failed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/bullet_point.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/collapseall.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/emailable-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/failed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/jquery-3.6.0.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-Mentor.LoginTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/navigator-bullet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/CURA/Login.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/CURA/classes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/CURA/groups.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/CURA/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/CURA/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/CURA/methods-alphabetical.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/CURA/methods-not-run.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/CURA/methods.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/CURA/reporter-output.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/CURA/testng.xml.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/CURA/toc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/passed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/skipped.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/testng-failed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/testng-reports.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/testng-reports.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/testng-reports1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/testng-reports2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/testng-results.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/testng.css" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2Vht5T5ztLTDNmZr9wC1aI6y6xR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/Repos/coto_rdsg_automation",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="TestNG.Testul.test">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="untitled27" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="untitled27" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SignInTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SignInTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Testul.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Testul" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Testul.test" />
+        <item itemvalue="TestNG.SignInTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d4062d98-05c8-47c6-bfdf-7d45c02ac307" name="Changes" comment="" />
+      <created>1695299960359</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695299960359</updated>
+      <workItem from="1695299961475" duration="3000" />
+      <workItem from="1695300057915" duration="4909000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
