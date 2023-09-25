@@ -17,6 +17,10 @@ public class MainPage {
 
     By logout = By.cssSelector("#logout");
 
+    By addToFavorite = By.xpath("//div[@id=\"1\"]/div[@class=\"shelf-stopper\"]/button");
+
+    By favoritePageButton = By.cssSelector("#favourites");
+
     public MainPage(WebDriver driver) {
         this.driver = driver;
     }
@@ -45,6 +49,14 @@ public class MainPage {
         Assert.assertTrue(driver.findElement(signinButton).isDisplayed());
     }
 
+    public void setAddToFavorite(){
+        driver.findElement(addToFavorite).click();
+    }
+
+    public void navigateToFavoritePage(){
+
+        driver.findElement(favoritePageButton).click();
+    }
 
 
 
