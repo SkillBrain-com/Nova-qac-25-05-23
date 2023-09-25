@@ -15,6 +15,8 @@ public class MainPage {
     By cart = By.cssSelector("div.float-cart__shelf-container>div.shelf-item>div.shelf-item__details>p.title");
     By checkout = By.cssSelector("div.buy-btn");
 
+    By logout = By.cssSelector("#logout");
+
     public MainPage(WebDriver driver) {
         this.driver = driver;
     }
@@ -35,6 +37,15 @@ public class MainPage {
     public void checkout()  {
         driver.findElement(checkout).click();
     }
+
+    public void logout(){ driver.findElement(logout).click();}
+
+    public void verifyLogout(){
+
+        Assert.assertTrue(driver.findElement(signinButton).isDisplayed());
+    }
+
+
 
 
 }
