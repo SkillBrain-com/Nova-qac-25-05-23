@@ -1,4 +1,4 @@
-package org.example.AlupuluiTeodorIulianSeleniu1.Herokuapp.Challanges;
+package org.example.Herokuapp.Challanges;
 
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;

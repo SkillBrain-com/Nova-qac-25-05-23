@@ -1,4 +1,4 @@
-package org.example.AlupuluiTeodorIulianSeleniu1.DemoQA.BrokenLinks;
+package org.example.DemoQA.BrokenLinks;
 
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;

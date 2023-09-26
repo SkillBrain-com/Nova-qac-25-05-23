@@ -1,4 +1,4 @@
-package org.example.AlupuluiTeodorIulianSeleniu1.DemoQA.DynamicProperties;
+package org.example.DemoQA.DynamicProperties;
 
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;

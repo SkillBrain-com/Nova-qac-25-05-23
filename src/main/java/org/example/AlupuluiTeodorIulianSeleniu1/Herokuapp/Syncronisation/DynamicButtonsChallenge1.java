@@ -1,4 +1,4 @@
-package org.example.AlupuluiTeodorIulianSeleniu1.Herokuapp.Syncronisation;
+package org.example.Herokuapp.Syncronisation;
 
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;

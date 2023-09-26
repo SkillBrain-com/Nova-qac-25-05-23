@@ -1,4 +1,4 @@
-package org.example.AlupuluiTeodorIulianSeleniu2.Herokuapp.Playground;
+package org.example.Herokuapp.Playground;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;

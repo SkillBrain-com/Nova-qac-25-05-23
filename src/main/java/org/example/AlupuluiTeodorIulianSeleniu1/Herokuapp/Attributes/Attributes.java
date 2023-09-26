@@ -1,4 +1,4 @@
-package org.example.AlupuluiTeodorIulianSeleniu1.Herokuapp.Attributes;
+package org.example.Herokuapp.Attributes;
 
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;

@@ -1,4 +1,4 @@
-package org.example.AlupuluiTeodorIulianSeleniu1.Herokuapp.Frames;
+package org.example.Herokuapp.Frames;
 
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;

@@ -1,9 +1,6 @@
-package org.example.AlupuluiTeodorIulianSeleniu3.Herokuapp.Files;
+package org.example.Herokuapp.Files;
 
-import org.openqa.selenium.By;
-import org.openqa.selenium.JavascriptExecutor;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
+import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 public class FileUpload {
@@ -15,7 +12,7 @@ public class FileUpload {
 
         WebElement fc = driver.findElement(By.xpath("//*[@id=\"fileinput\"]"));
         ((JavascriptExecutor)driver).executeScript("arguments[0].scrollIntoView(true);", fc);
-        fc.sendKeys("C:\\Users\\Jhackhendhar\\Downloads");
+        fc.sendKeys("C:\\fakepath\\sampleFile.jpeg");
         WebElement image = driver.findElement(By.cssSelector("#itsanimage"));
         ((JavascriptExecutor)driver).executeScript("arguments[0].scrollIntoView(true);", image);
         driver.findElement(By.cssSelector("#itsanimage")).click();

@@ -1,8 +1,6 @@
-package org.example.AlupuluiTeodorIulianSeleniu4.DemoQA.Interactions;
+package org.example.DemoQA.Interactions;
 
-import org.openqa.selenium.By;
-import org.openqa.selenium.JavascriptExecutor;
-import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.interactions.Actions;
 

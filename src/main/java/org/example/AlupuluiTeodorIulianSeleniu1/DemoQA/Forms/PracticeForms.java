@@ -1,4 +1,4 @@
-package org.example.AlupuluiTeodorIulianSeleniu1.DemoQA.Forms;
+package org.example.DemoQA.Forms;
 
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;

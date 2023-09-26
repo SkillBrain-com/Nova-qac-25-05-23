@@ -1,4 +1,4 @@
-package org.example.AlupuluiTeodorIulianSeleniu1.Herokuapp.Cookies;
+package org.example.Herokuapp.Cookies;
 
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;

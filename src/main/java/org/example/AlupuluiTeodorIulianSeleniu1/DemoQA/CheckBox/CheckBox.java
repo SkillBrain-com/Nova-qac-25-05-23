@@ -1,4 +1,4 @@
-package org.example.AlupuluiTeodorIulianSeleniu1.DemoQA.CheckBox;
+package org.example.DemoQA.CheckBox;
 
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;

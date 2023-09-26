@@ -1,4 +1,4 @@
-package org.example.AlupuluiTeodorIulianSeleniu1.DemoQA.Widgets;
+package org.example.DemoQA.Widgets;
 
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;

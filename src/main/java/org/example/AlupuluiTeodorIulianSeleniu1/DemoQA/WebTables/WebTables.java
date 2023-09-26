@@ -1,4 +1,4 @@
-package org.example.AlupuluiTeodorIulianSeleniu1.DemoQA.WebTables;
+package org.example.DemoQA.WebTables;
 
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;

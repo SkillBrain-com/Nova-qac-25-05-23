@@ -1,4 +1,4 @@
-package org.example.AlupuluiTeodorIulianSeleniu1.DemoQA.Interactions;
+package org.example.DemoQA.Interactions;
 
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;

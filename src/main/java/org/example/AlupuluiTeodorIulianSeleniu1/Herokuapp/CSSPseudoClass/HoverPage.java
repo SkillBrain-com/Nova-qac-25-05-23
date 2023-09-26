@@ -1,4 +1,4 @@
-package org.example.AlupuluiTeodorIulianSeleniu1.Herokuapp.CSSPseudoClass;
+package org.example.Herokuapp.CSSPseudoClass;
 
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
