@@ -3,6 +3,7 @@ package org.example.Utils;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
+import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeMethod;
@@ -14,6 +15,7 @@ import java.util.concurrent.TimeUnit;
 public class TestBase {
 
     public WebDriver driver;
+    public RemoteWebDriver remoteDriver;
 
     @BeforeMethod
     public void testBase(){
@@ -26,10 +28,21 @@ public class TestBase {
         driver.get("https://bstackdemo.com/");
     }
 
+    @BeforeMethod(groups = {"grid"})
+    public void remoteTestBase(){
+        remoteDriver = Remote.getRemoteWebDriver();
+        remoteDriver.get("https://bstackdemo.com/");
+    }
+
 
     @AfterMethod
     public void tearDown(){
         driver.quit();
+    }
+
+    @AfterMethod(groups = {"grid"})
+    public void remoteTearDown(){
+        remoteDriver.quit();
     }
 
 }

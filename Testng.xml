@@ -2,8 +2,13 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="Teste">
     <test name="Test">
+        <groups>
+            <run>
+                <include name="grid"/>
+            </run>
+        </groups>
         <classes>
-            <class name="AddToCartTest"></class>
+            <class name="SeleniumGridTest"></class>
         </classes>
     </test>
 </suite>
