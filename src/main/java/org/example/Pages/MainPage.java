@@ -21,6 +21,8 @@ public class MainPage {
 
     By favoritePageButton = By.cssSelector("#favourites");
 
+    By googleVendors = By.cssSelector("div.filters-available-size:nth-child(4) span");
+
     public MainPage(WebDriver driver) {
         this.driver = driver;
     }
@@ -56,6 +58,10 @@ public class MainPage {
     public void navigateToFavoritePage(){
 
         driver.findElement(favoritePageButton).click();
+    }
+
+    public void setGoogleVendors(){
+        driver.findElement(googleVendors).click();
     }
 
 
