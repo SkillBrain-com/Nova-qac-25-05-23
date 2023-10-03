@@ -23,7 +23,7 @@ public class TestBase {
         driver =  new ChromeDriver();
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(30));
         driver.manage().window().maximize();
-        driver.get("https://bstackdemo.com/");
+        driver.get("https://www.saucedemo.com/");
     }
 
 
